@@ -66,6 +66,8 @@
     Desktop App <b>.NET MAUI</b>
     </a>
 
+  <p></p>
+
   <img src="img/sportspots.png" width="300px"/>
 
 </div>
