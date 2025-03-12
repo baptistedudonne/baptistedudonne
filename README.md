@@ -72,32 +72,8 @@
 
 </div>
 
-
-## My projects
-
-### Alica - second-year bachelor project
-*Creation of social network for IUT Clermont Auvergne alumni*
-
-[Backend **Springboot**](https://github.com/Baltazouu/ALICA_API)
-
-
-[Frontend **Nextjs**](https://github.com/Baltazouu/ALICA_WEB)
-
-[Mobile app **Android**](https://github.com/Baltazouu/ALICA_APP)
-
-### Sportspots - first-year bachelor project
-*Creation of desktop app to find sport places around you*
-
-[Backend **Springboot**](https://github.com/Baltazouu/ALICA_API)
-
-
-[Frontend **Nextjs**](https://github.com/Baltazouu/ALICA_WEB)
-
-[Mobile app **Android**](https://github.com/Baltazouu/ALICA_APP)
-
-
-https://github.com/Baltazouu/ALICA_API
-#### Reach me on linkedin : [https://www.linkedin.com/in/baptiste-dudonné-68852926b/](https://www.linkedin.com/in/baptiste-dudonné-68852926b/)
+<br>
+<br>
 
 <p align="center"> 
   <a href="https://angular.io" title="Angular" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="50" height="50"/> </a> 
