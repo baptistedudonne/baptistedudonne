@@ -1,33 +1,75 @@
 <div align="center">
   <h1>Hi 👋, I'm Baptiste Dudonné</h1>
   <h3>Fullstack Developer For CGI. From Normandy, FRANCE.</h3>
-  
+
+  <h4>🚀 Fullstack Developer - Work-study program</h4>
+
+  <h4> 🛠️ Technologies 🛠️ </h4>
+
+  <h4>📱 Frontend 📱</h4>
+
+  <p>React.js - Angular.js - HTML5, CSS3</p>
+
+  <h4>📱 Backend 📱</h4>
+
+  <p>Springboot - NestJS - Symfony</p>
+
+   <h4>☁️ Ops ☁️</h4>
+
+   <p>Gitlab CI/CD - Drone - Docker - Kubernetes - Helm</p>
+
+   <h4>☁️ Messaging ☁️</h4>
+
+   <p>Kafka - RabbitMQ<p>
+
+   <h1>Projects 🚀</h3>
+
+   <h2>POGOS</h4>
+     <p>🚧 in progress 🚧<p>
+   <i>online card game platform</i>
+    <p>Repositories : </p>
+    <a href="https://github.com/pogos-games/pogos-backend" target="_blank">
+    Backend <b>NestJS</b>
+    </a>
+    <a href="https://github.com/pogos-games/pogos-frontend" target="_blank">
+    Frontend <b>Angular</b>
+    </a>
+    <p>Redis - Mysql DB<p>
+
+  <img src="img/pogos.png" width="300px"/>
+
+
+   <h2>Alica</h4>
+   <i>Creation of social network for IUT Clermont Auvergne alumni</i>
+    <p>Repositories : </p>
+    <a href="https://github.com/Baltazouu/ALICA_API" target="_blank">
+    Backend <b>Springboot</b>
+    </a>
+    -
+    <a href="https://github.com/Baltazouu/ALICA_WEB" target="_blank">
+    Frontend <b>NextJS</b>
+    </a>
+    -
+    <a href="https://github.com/Baltazouu/ALICA_APP" target="_blank">
+    Mobile App <b>Android</b>
+    </a>
+    <p>Mysql DB<p>
+
+  <img src="img/alica.png" width="300px"/>
+
+
+
+   <h2>Sportspots</h2>
+   <i>Creation of desktop application to locate sports facilities in your area</i>
+    <p>Repositories : </p>
+    <a href="https://github.com/Baltazouu/Sportspots" target="_blank">
+    Desktop App <b>.NET MAUI</b>
+    </a>
+
+  <img src="img/sportspots.png" width="300px"/>
+
 </div>
 
-🚀 Fullstack Developer - Work-study program 
-
-
-🛠️ Technologies 🛠️ 
-
-📱 Frontend 📱 
-- React.js
-- Angular.js,
-- HTML5, CSS3,
-
-⚙️ Backend ⚙️
-- Springboot 
-- NestJS
-- Symfony
-
-☁️ Ops ☁️
-- Gitlab CI/CD
-- Drone
-- Docker
-- Kubernetes - Helm
-
-☁️ Messaging ☁️
-- Kafka
-- RabbitMQ
 
 ## My projects
 
